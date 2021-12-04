@@ -1,0 +1,12 @@
+*{
+    margin-top: 10px;
+}
+.uk-flex{
+    margin: 10px;
+}
+.tyt:hover{
+    background-color: rgba(168, 165, 165, 0.199);
+}
+.trash{
+    position: absolute ;right: 30px;
+}
